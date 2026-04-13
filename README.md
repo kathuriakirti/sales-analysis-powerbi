@@ -1,7 +1,7 @@
 # 📊 Sales Analysis Dashboard
 
-Analyzing sales performance, delivery efficiency, and return behavior to support data-driven business decisions using Power BI.
----
+*Analyzing sales performance, delivery efficiency, and return behavior to support data-driven business decisions using Power BI.*
+
 ## Project Workflow
 Raw Data -> Data Cleaning(Powerbi) -> Feature Engineering(DAX) -> Data Analysis -> Power BI Dashboard -> Business Insights & Recommendations
 
