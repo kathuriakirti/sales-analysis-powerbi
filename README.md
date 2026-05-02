@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Dashboard
+# 📊 Sales Analysis
 
 *Analyzing sales performance, delivery efficiency, and return behavior to support data-driven business decisions using Power BI.*
 
